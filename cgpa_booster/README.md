@@ -18,9 +18,6 @@ A sleek and interactive web application built using **React.js** that helps stud
 - JavaScript  
 - Vite (for fast development)  
 
-## 📷 Screenshots
-
-> (Add screenshots here if you have them – just drag images into the README or paste URLs)
 
 ## 📦 Getting Started
 
